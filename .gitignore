@@ -1,7 +1,10 @@
 ####################
 #  Test
 ####################
-/cache/
+*.log
+/data/cache/
+/runtime/
+/upload/
 
 ####################
 #  Wordpress
